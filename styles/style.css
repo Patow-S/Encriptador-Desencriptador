@@ -1,0 +1,63 @@
+*{
+
+}
+body{
+    font-family: 'Martian Mono', monospace;
+    font-size: 25px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:  15px;
+}
+
+#modo{
+    padding: 5px 10px;
+}
+
+button{
+    padding: 5px 20px;
+    margin: 10px 0px;
+    height: auto;
+    outline: none;
+    border-radius: 10px;
+}
+svg{
+    height:1.5rem;
+}
+
+/* <Main/>*/
+
+main{
+
+}
+
+.container{
+    display: flex;
+    height: 75vh;
+    width: 100%;
+    margin: 30px;
+}
+.conteiner-izq{
+width: 55%;
+}
+.conteiner-der{
+    width: 45%;
+}
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+}
+
+.input-area{
+
+    width: 100%;
+    /* height: 85vh; */
+
+}
+
+/*<Main/> */
