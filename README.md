@@ -6,10 +6,15 @@ Este proyecto se enfoca en el desarrollo de una aplicación de encriptación de 
 La web permite a los usuarios ingresar texto y aplicar una encriptación específica según las siguientes reglas:
 
 La letra "e" se convierte en "enter".
+
 La letra "i" se convierte en "imes".
+
 La letra "a" se convierte en "ai".
+
 La letra "o" se convierte en "ober".
+
 La letra "u" se convierte en "ufat".
+
 
 1. **Desencriptación de Texto:** Los usuarios también pueden ingresar texto encriptado y obtener la versión original del mensaje.
 
